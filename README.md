@@ -19,7 +19,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ### Links
 
-- Live Site URL: [https://stinkycodemachine.github.io/faq-accordion-card-main/](https://stinkycodemachine.github.io/faq-accordion-card-main/)
+- Live Site URL: [https://stinkycodemachine.github.io/article-preview-component-master/](https://stinkycodemachine.github.io/article-preview-component-master/)
 
 
 ## My process
