@@ -28,6 +28,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 - Semantic HTML5 markup
 - CSS custom properties
+- JavaScript 
 ## Author
 
 - Frontend Mentor - [@StinkyCodeMACHINE](https://www.frontendmentor.io/profile/StinkyCodeMACHINE)
